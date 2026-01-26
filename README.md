@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **m4h1r/m4h1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mahiryildizhan@icloud.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Dragonball and Doctor Who geek. 🤓
--->
